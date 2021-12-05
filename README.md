@@ -1,4 +1,4 @@
-![github.com/remnev-s/remnev-s](/img/banner-1.png)
+![github.com/remnev-s/remnev-s](/img/gre0000.png)
 
 <h1 align='center'> Hi there :wave:</h1>
 <p align = 'center'>
