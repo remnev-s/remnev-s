@@ -2,7 +2,7 @@
 
 <h1 align='center'> Hi there :wave:</h1>
 <p align = 'center'>
-I'm Stanislav Remnev, a beginner Front-end developer from Moscow.
+
 </p>
 <br>
  <div align="center">
